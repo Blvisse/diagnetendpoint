@@ -1,0 +1,9 @@
+tensorflow
+opencv-python
+Pillow
+numpy
+matplotlib
+scipy
+scikit-image
+boto3
+pydicom
